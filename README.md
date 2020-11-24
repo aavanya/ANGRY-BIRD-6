@@ -1,2 +1,2 @@
-# ANGRY-BIRD-6
-PLAY TO KILL THE ENEMIES
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
